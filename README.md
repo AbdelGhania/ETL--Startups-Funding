@@ -1,6 +1,6 @@
 Extraction
 
-I  used one datasets from  Kaggle
+I  used one dataset from  Kaggle
 
 
 Transformation
